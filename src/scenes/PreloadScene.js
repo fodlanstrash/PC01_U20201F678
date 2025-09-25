@@ -13,7 +13,7 @@ class PreloadScene extends Phaser.Scene {
         this.load.image("rotate", "assets/images/rotate.png");
         this.load.image("rubber_duck", "assets/images/rubber_duck.png");
         this.load.spritesheet("pet", "assets/images/pet.png", {
-            frameWidth: 20,
+            frameWidth: 97,
             frameHeight: 83
         });
     }
